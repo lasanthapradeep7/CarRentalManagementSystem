@@ -48,5 +48,6 @@ public class Car {
 
     public void scheduleMaintenance() {
         // Implementation for scheduling maintenance
+        system.out.println ("schedule maintenance")
     }
 }
